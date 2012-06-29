@@ -1,0 +1,39 @@
+bargas
+
+1. bien por el manejo de errores
+2. hay un for (int i = 0; i < 1; i++)
+para qué?
+3. podría reutilizar la solución
+4. los tests son muy sencillos
+
+beltrame
+
+1. bien el manejo de errores
+2. demasiada complejidad (muchos ciclos, mucho anidamiento)
+3. podría reutilizar más
+4. tiene un solo test
+
+fierro
+
+1. no hay manejo de errores
+2. el algoritmo reutiliza, pero es por prueba y error
+3. no encontré tests
+
+lubo
+
+1. buenos tests
+2. ojo la complejidad del algoritmo
+3. podría reutilizar lógica, resolviendo de a partes
+
+mariani
+
+1. bien las pruebas
+2. bien modularizado
+3. ojo con las constantes numéricas: son propensas a errores
+
+moreno
+
+1. buenos tests
+2. no modulariza
+3. hay ifs anidados que podrían ser sentencias con and
+4. no verifica correctitud del problema
